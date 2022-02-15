@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Language Acquisition
-type: OCWFile
 uid: 038c9e8a-1f12-29ad-d91c-fa5b781cc1b9
 ---

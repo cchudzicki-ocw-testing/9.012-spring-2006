@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Imagine the Taj Majal
-type: OCWFile
 uid: f02c5094-4b46-bcec-37d1-2c017da86379
 ---

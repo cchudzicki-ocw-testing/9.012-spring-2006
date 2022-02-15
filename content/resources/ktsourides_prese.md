@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Moral judgment
-type: OCWFile
 uid: e9439be0-508b-a683-4590-11fb37c6945d
 ---

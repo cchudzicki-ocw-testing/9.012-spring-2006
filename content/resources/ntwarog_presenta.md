@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Social Cognition
-type: OCWFile
 uid: 8b84e783-6ba7-5747-f069-e6d2e728466f
 ---
