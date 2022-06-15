@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides online references for additional resources in the
+  fields of perception, attention, working memory, recognition and recall, language,
+  computation, and other issues in cognitive science. These range from professional
+  societies that maintain links to areas that any reader can explore in the field
+  of cognition. Many of the linked sites provide resources for further study, as well
+  as downloadable resources that can be used for classroom teaching.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
