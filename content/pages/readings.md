@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the reading assignments for the course, organized
+  by session and topic.
 draft: false
 learning_resource_types:
 - Readings
