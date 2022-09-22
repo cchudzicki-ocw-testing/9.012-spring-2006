@@ -5,6 +5,7 @@ file: /courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/8b84e7836ba
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
